@@ -1,0 +1,15 @@
+/* Make the message input bar background black */
+.textArea-2CLwUE {
+  background-color: #000000 !important;
+}
+
+/* Adjust inner textarea text color */
+.slateTextArea-27tjG0 {
+  color: #ffffff !important;
+}
+
+/* Optional: remove border or adjust it */
+.textArea-2CLwUE:focus-within {
+  border: none !important;
+  box-shadow: none !important;
+}
