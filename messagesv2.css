@@ -1,0 +1,28 @@
+/* Outer container of the message bar */
+.form-3gdLxP {
+  background-color: #000 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Inner typing area */
+.textArea-2CLwUE {
+  background-color: #000 !important;
+  color: #fff !important;
+  border-radius: 8px !important;
+}
+
+/* Input text */
+.slateTextArea-27tjG0 {
+  color: #fff !important;
+}
+
+/* Icons on the right (emoji, gif, etc.) */
+.buttons-uaqb-5 {
+  background-color: transparent !important;
+}
+
+/* Placeholder text color */
+.placeholder-1rCBhr {
+  color: #777 !important;
+}
